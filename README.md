@@ -26,10 +26,10 @@
 
 ```yaml
 role: Student & Developer
-focus: Full Stack Development
+focus:  Software Development 
 learning: Java, Node.js, Backend Development
 goal: Become a Software Engineer
-passion: Coding | Problem Solving | Development
+passion: Coding | Problem Solving | Development | Tester
 ```
 
 </td>
